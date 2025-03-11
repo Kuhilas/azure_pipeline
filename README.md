@@ -1,5 +1,10 @@
 # week7-groupwork
 
+This is a cloned repository of our groupwork with Pekka-ai and liulma 
+https://github.com/Pekka-ai/week7-groupwork
+
+---
+
 # Synapse & ETL Project 🔎📊
 
 ### 1. Data Modeling Plan
